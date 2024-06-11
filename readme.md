@@ -3,13 +3,10 @@
   <img width="150" height="150" href="https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code" src="https://cdn.discordapp.com/attachments/801418986809589771/1007426236894691378/Narpitti.png">
 </p>
 
-# Nraphy - Discord Bot Altyapısı (Discord js v14)
+# Darker - Discord Bot Altyapısı (Discord js v14)
 Discord'daki en iyi Türkçe bot altyapısı! 
 - En güncel discord.js sürümü (v14) ve slash komutları ile geride bırakmaz. 
 - Önbellekleme sistemiyle modifiye edilmiş MongoDB veritabanı ile hiç olmadığı kadar hızlı 🚀
-
-Açık kaynak projemize destek vermek istersen yıldızlayabilirsin ⭐ <br>
-Ya da hiç zahmete girmeyip direkt [Davet bağlantısı](https://discord.com/oauth2/authorize?client_id=700959962452459550&permissions=8&redirect_uri=https://discord.gg/VppTU9h&scope=applications.commands%20bot&response_type=code) ile Nraphy'i sunucuna ekleyebilirsin.
 
 ## ❤️‍🔥 Özellikler
 Bu projede tüm Nraphy kodları açık olarak paylaşılmamıştır. Botun güncel hâli saklıdır, güncel hâli ileri zamanlarda paylaşılacaktır, takipte kalabilirsin. Bu projede, Nraphy'de bulunan sistemlerle ilgili durumlar aşağıdaki gibidir:
@@ -63,12 +60,3 @@ Profilinde "developer" ibaresi bulunurken en basit kod hataları için yardım i
 ## ❤️ Ayrıca Teşekkürler
 Aşağıdaki kişilere, projelere ve aklıma gelmeyen daha nice kaynağa, emeklerinden dolayı teşekkürlerimi sunuyorum. (Aklıma geldikçe dahasını da ekleyeceğim)
 ### Saygıdeğer Abilerim 
-* [Androz2091](https://github.com/Androz2091)
-* [Akif9748](https://github.com/Akif9748)
-### Projeler
-* [Alita](https://github.com/KSJaay/Alita)
-* [Atlanta](https://github.com/Androz2091/AtlantaBot)
-* [Dodong](https://github.com/nizewn/Dodong)
-* [Eyesense-Music-Bot](https://github.com/naseif/Eyesense-Music-Bot)
-### Diğer
-* [Theark (Medium)](https://medium.com/@thearkxd)
